@@ -1,0 +1,16 @@
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/EditorHtml
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/EditorHtml.deps.json
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/EditorHtml.runtimeconfig.json
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/EditorHtml.runtimeconfig.dev.json
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/EditorHtml.dll
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/ref/EditorHtml.dll
+/home/vinicius/dotnet/EditorHtml/bin/Debug/net5.0/EditorHtml.pdb
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.csproj.AssemblyReference.cache
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.AssemblyInfoInputs.cache
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.AssemblyInfo.cs
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.dll
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/ref/EditorHtml.dll
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.pdb
+/home/vinicius/dotnet/EditorHtml/obj/Debug/net5.0/EditorHtml.genruntimeconfig.cache
